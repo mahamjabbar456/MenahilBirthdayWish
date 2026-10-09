@@ -29,7 +29,7 @@ const BookCanvas = ({ active, setActive }) => {
                 <div className="card1">
                     <div className="cover-text-wrapper">
                         <h4 className="username">
-                            Dear Trishaa<span className="underline"></span>
+                            Dear Menahil<span className="underline"></span>
                         </h4>
                         <h3 className="cover-title">
                             Happy Birthday!
@@ -68,9 +68,9 @@ const BookCanvas = ({ active, setActive }) => {
 
                         {/* Swapping back to H2 to match the original CSS targeting */}
                         <div className="card2-message-text italic">
-                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Trishaa ❤️</article>
-                            <article style={{ marginBottom: '10px' }}>From the moment we met, something in my life shifted—like the universe quietly guiding me toward someone meant for me.You brought warmth into the parts of me I didn’t even know were cold, And you expanded my days with a dimension I can only call my own.</article>
-                            <article style={{ marginBottom: '10px' }}>On your birthday, I just want you to know this: I want you with me in every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I’ll be on your side—always. I’ll choose you, protect you, stand with you, and love you in ways that remind you you’re never alone.</article>
+                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Menahil ❤️</article>
+                            <article style={{ marginBottom: '10px' }}>From the moment you came into my life, something beautiful changed in my world—like Allah blessed me with a little angel to make my days brighter. You brought happiness and warmth into my heart in ways I never knew I needed, and you filled my life with a special kind of love that only my little sister could bring. 💗🎀</article>
+                            <article style={{ marginBottom: '10px' }}>On your birthday, my little sister, I just want you to know this: I want you with me in every chapter, every storm, every sunshine, and every tomorrow. No matter what comes, I’ll always be on your side. I’ll choose you, protect you, stand with you, and love you in ways that remind you that you’re never alone. 💗🎀</article>
                             <article style={{ marginBottom: '10px' }}>You’re not just another year older today… <br />
                                 you’re the reason my life feels softer, brighter, and endlessly worth living. Happy Birthday.</article>
                         </div>
@@ -91,7 +91,7 @@ const BookCanvas = ({ active, setActive }) => {
                         <div className="confetti-dots"></div>
 
                         <p className="signature">
-                            Your Best Friend, Mico
+                            Your Best Sister, Maham
                         </p>
                     </div>
                 </div>

@@ -4,45 +4,45 @@ import heartImg from '../assets/heart.png'
 const LoveLetter = () => {
     const lettersData = [
         {
-            id: 1,
-            name: "Mico",
-            msg: "Wish you the happiest birthday",
+        id: 1,
+        name: "Maham",
+        msg: "Wishing you the happiest birthday, my little sister Menahil. May your life always be filled with happiness, love, and countless beautiful moments. 💗"
         },
         {
-            id: 2,
-            name: "Mico",
-            msg: "One picture from you can change my whole day, my whole mood, my whole heartbeat.",
+        id: 2,
+        name: "Maham",
+        msg: "One picture of you can brighten my whole day, change my mood, and remind me how lucky I am to have the cutest little sister in the world. 🎀"
         },
         {
-            id: 3,
-            name: "Mico",
-            msg: "Even through screens and pixels, your laugh reaches me like sunlight through a window—warm, real, and impossible to forget.",
+        id: 3,
+        name: "Maham",
+        msg: "Even when we're apart, your laughter brings sunshine into my life. Your smile is one of my favorite things in this world, and I'll always cherish the happiness you bring to my heart. 🌷"
         },
         {
-            id: 4,
-            name: "Mico",
-            msg: "Every notification from you feels like a heartbeat whispering, I’m here, and I love you.",
+        id: 4,
+        name: "Maham",
+        msg: "Every notification from you brings a little smile to my face and reminds me how special our sister bond is. No matter what happens, your big sister is always here for you. 🫂"
         },
         {
-            id: 5,
-            name: "Mico",
-            msg: "Our messages might travel through wires, but every word you send lands straight in my heart.",
+        id: 5,
+        name: "Maham",
+        msg: "Every word you say, every little thing you share, and every silly conversation we have holds a special place in my heart. You aren't just my little sister; you're one of my favorite blessings. 💕"
         },
         {
-            id: 6,
-            name: "Mico",
-            msg: "Ever since our we met, my heart knew where it wanted to stay— with you, in every soft moment, every smile, every quiet piece of forever.",
+        id: 6,
+        name: "Maham",
+        msg: "Ever since you became a part of my life, my heart has had a special place reserved just for you. I want you beside me through every chapter, every smile, every challenge, and every beautiful moment of life. 👭🏻"
         },
         {
-            id: 7,
-            name: "Mico",
-            msg: " but you turned it into a memory my heart refuses to forget. Since then, every moment with you has felt softer, brighter, and filled with a kind of peace only you bring.",
+        id: 7,
+        name: "Maham",
+        msg: "You have turned so many ordinary moments into memories my heart will always treasure. Life feels brighter and more beautiful with you in it, Menahil, and I'll forever be grateful that Allah blessed me with a little sister like you. 🎂💗"
         },
         {
-            id: 8,
-            name: "Mico",
-            msg: "Since our first conversation, you’ve been the quiet spark that changed my world, turning ordinary days into moments that feel beautifully meant to be.",
-        },
+        id: 8,
+        name: "Maham",
+        msg: "Since our earliest memories together, you've been a little spark of happiness in my world. You make ordinary days feel special, and no matter how much we grow up, you'll always be my precious little sister and one of the sweetest parts of my life. 🩷🎀"
+        }
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
     const [letters, setLetters] = useState([]);
@@ -128,7 +128,7 @@ const LoveLetter = () => {
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[20%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
                             <span className='munna font-sriracha md:text-2xl text-lg'>Envelope Of Love</span>
-                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Trishaa</span>
+                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Menahil</span>
                         </div>
                     </div>
                     <div className="munna envelope-folds">
